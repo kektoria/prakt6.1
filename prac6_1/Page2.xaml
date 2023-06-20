@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="prac6_1.Page2">
+
+    <ContentPage.Resources>
+        <StyleSheetExtension Source = "styles2.css"/>
+    </ContentPage.Resources>
+
+    <StackLayout Orientation="Vertical" Spacing="7">
+        
+        <StackLayout HorizontalOptions="Center" Margin="0,10,0,0">
+            <Label Text="" x:Name="Name_Text" StyleId="label" />
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" Margin="2,5,0,0">
+
+            <Button Text="BUTTON" StyleId="buttonbg" CornerRadius="50" />
+            <Button Text="BUTTON" StyleId="buttonbr" CornerRadius="50" BorderColor="orangered" BorderWidth="2" />
+
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+
+            <Button Text="BUTTON" StyleId="buttonbg" CornerRadius="50" />
+            <Button Text="BUTTON" StyleId="buttonbr" CornerRadius="50" BorderColor="orangered" BorderWidth="2" />
+
+        </StackLayout>
+
+
+        <StackLayout Orientation="Horizontal" Margin="4,0,0,0" >
+            
+            <StackLayout>
+
+                <Button Text="LARGE" StyleId="largebtn" BackgroundColor="#7DAD67" CornerRadius="50"/>
+
+                <Button Text="NORMAL" StyleId="normalbtn" BackgroundColor="#7DAD67" CornerRadius="50"/>
+
+                <Button Text="SMALL" StyleId="smallbtn" BackgroundColor="#7DAD67" CornerRadius="50"/>
+                
+            </StackLayout>
+
+            <StackLayout>
+
+                <Button Text="LARGE" StyleId="largebtn2" BackgroundColor="#E9E5E5" CornerRadius="50" />
+
+                <Button Text="NORMAL" StyleId="normalbtn2" BackgroundColor="#E9E5E5" CornerRadius="50" />
+
+                <Button Text="SMALL" StyleId="smallbtn2" BackgroundColor="#E9E5E5" CornerRadius="50" />
+
+            </StackLayout>
+
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" Margin="10,0,0,0">
+            
+            <StackLayout>
+                
+                <Switch IsToggled="True" OnColor="#7DAD67" ThumbColor="#E9E5E5" />
+                
+                <Switch IsToggled="True" OnColor="#7DAD67" ThumbColor="#E9E5E5" />
+                
+                <Switch IsToggled="true" OnColor="#7DAD67" ThumbColor="#E9E5E5" />
+
+            </StackLayout>
+            
+                <StackLayout VerticalOptions="Center" Margin="70,20,0,0" > 
+                    
+                    <Label Text="Выберите элемент:" TextColor="#7DAD67" FontSize="15"/>
+
+                <Picker Title="Стихи" x:Name="Stihi" TitleColor="#7DAD67" SelectedIndexChanged="Picker_SelectedIndexChanged" TextColor="#7DAD67">
+                        <Picker.ItemsSource>
+                            <x:Array Type="{x:Type x:String}">
+                                <x:String>Вечер</x:String>
+                                <x:String>Небо и звёзды</x:String>
+                                <x:String>Солнце</x:String>
+                                <x:String>Утёс</x:String>
+                            </x:Array>
+                        </Picker.ItemsSource>
+                    </Picker>  
+                    
+                </StackLayout>
+    
+
+        </StackLayout>
+        
+        
+    </StackLayout>
+    
+</ContentPage>

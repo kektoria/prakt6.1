@@ -1,0 +1,13 @@
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\optimized\
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\prac6_1.iOS.csproj.AssemblyReference.cache
+Z:\Polina\prac6_1\prac6_1.iOS\obj\iPhone\Debug\prac6_1.iOS.csproj.CoreCompileInputs.cache

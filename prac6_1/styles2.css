@@ -1,0 +1,52 @@
+﻿^contentpage 
+{
+    background-color: #2c2f37;
+}
+
+#label {
+    color: #7DAD67;
+    font-size: 20;
+
+}
+
+#buttonbg {
+    background-color: orangered;
+    color: whitesmoke;
+    padding: 15 68;
+}
+
+#buttonbr {
+    background-color: whitesmoke;
+    color: orangered;
+    padding: 15 68;
+}
+
+#largebtn {
+    color: #E9E5E5;
+    padding: 35 65;
+}
+
+#normalbtn {
+    color: #E9E5E5;
+    padding: 20 65;
+}
+
+#smallbtn {
+    color: #E9E5E5;
+    padding: 5 65;
+}
+
+#largebtn2 {
+    color: #7DAD67;
+    padding: 35 65;
+}
+
+#normalbtn2 {
+    color: #7DAD67;
+    padding: 20 65;
+}
+
+#smallbtn2 {
+    color: #7DAD67;
+    padding: 5 65;
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2p1AkMTikLtTETrTdNqrrTpmaRq691TPq2gc9X3CMOtkRtcWt3tA8Nk7vZvgGHU2Wu2A1bWpdUB1JMeTwIxug==",
+  "success": true,
+  "projectFilePath": "Z:\\Polina\\prac6_1\\prac6_1\\prac6_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdoro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zdoro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\zdoro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\zdoro\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\zdoro\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
